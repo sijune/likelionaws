@@ -89,6 +89,7 @@ GEM
     formatador (0.2.5)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
+    hirb (0.7.3)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     ipaddress (0.8.3)
@@ -245,6 +246,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   devise
   fog-aws
+  hirb
   jbuilder (~> 2.0)
   jquery-rails
   mini_magick
